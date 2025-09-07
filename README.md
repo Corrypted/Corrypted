@@ -1,6 +1,6 @@
 [![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)](https://github.com/Corrypted?tab=repositories)
-<h1 align="center">Hi 👋, I'm Madelyn</h1>
-<h3 align="center">A passionate backend developer from Sweden!!</h3>
+<h1 align="center">Hi 👋, I'm Braeden</h1>
+<h3 align="center">A passionate backend developer from Iowa!!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=corrypted&label=Profile%20views&color=0e75b6&style=flat" alt="corrypted" /> </p>
